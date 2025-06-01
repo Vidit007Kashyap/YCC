@@ -3340,7 +3340,7 @@ header.main-header.style-three .header-lower .header___left {
 }
 .classic__text {
   position: absolute;
-  right: -35%;
+  right: -10%;
   top: 45%;
   transform: rotate(-90deg);
 }
